@@ -15,7 +15,6 @@ authors = [
 ]
 
 keywords = ["gui", "sdl2", "graphics", "python", "interface"]
-
 dependencies = [
     "PySDL2>=0.9.16"
 ]
