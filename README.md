@@ -49,7 +49,9 @@ ui.run_funct()\
   .button("Saluta", action=saluto)\
   .button("Esci", action=esci)\
   .render()
+```
 
 
 ## Licenza
 Questo progetto è distribuito sotto licenza Apache 2.0. Vedi il file LICENSE per i dettagli.
+
