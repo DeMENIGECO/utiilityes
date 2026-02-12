@@ -1,6 +1,6 @@
 [project]
 name = "utiilityes"
-version = "0.1.0"
+version = "0.2.0"
 description = "Una libreria Python per creare GUI moderne basate su SDL2"
 readme = "README.md"
 requires-python = ">=3.9"
@@ -22,4 +22,5 @@ include-package-data = true
 include = ["utiilityes"]
 
 [project.urls]
+
 Repository = "https://github.com/DeMENIGECO/utiilityes"
