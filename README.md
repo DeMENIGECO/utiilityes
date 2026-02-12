@@ -52,4 +52,18 @@ ui.run_funct()\
 
 
 ## Licenza
+
 Questo progetto è distribuito sotto licenza Apache 2.0. Vedi il file LICENSE per i dettagli.
+## Versioni obsolete, nuove e accettabili
+
+**Ecco le versioni obsolete, nuove e accettabili**. Le obsolete non si devono usare, le nuove sono le ultime, le accettabili versioni passate ma non obsolete.
+
+- 0.1.0 -> Obsoleta
+- 0.2.0 -> Obsoleta
+- 0.2.1 -> Obsoleta
+- 0.2.2 -> Obsoleta
+- 0.2.3 -> Accettabile
+- 0.2.4 -> Accettabile
+- 0.2.5 -> Accettabile
+- 0.2.6 -> Accettabile
+- 0.2.7 -> Nuova
