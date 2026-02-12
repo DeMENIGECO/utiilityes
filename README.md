@@ -1,4 +1,3 @@
-# utiilityes
 
 **utiilityes** è una piccola libreria Python pensata per creare GUI moderne e semplici, basate su SDL2.  
 L’obiettivo è offrire un’interfaccia fluida, leggibile e immediata, senza dover scrivere codice complesso.
@@ -54,4 +53,3 @@ ui.run_funct()\
 
 ## Licenza
 Questo progetto è distribuito sotto licenza Apache 2.0. Vedi il file LICENSE per i dettagli.
-
