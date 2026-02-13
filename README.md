@@ -63,9 +63,11 @@ Questo progetto è distribuito sotto licenza Apache 2.0. Vedi il file LICENSE pe
 - 0.2.0 -> Obsoleta
 - 0.2.1 -> Obsoleta
 - 0.2.2 -> Obsoleta
-- 0.2.3 -> Accettabile
+- 0.2.3 -> Obsoleta
 - 0.2.4 -> Accettabile
 - 0.2.5 -> Accettabile
 - 0.2.6 -> Accettabile
-- 0.2.7 -> Nuova
+- 0.2.7 -> Accettabile
+- 0.2.8b -> BETA con errori
+
 
