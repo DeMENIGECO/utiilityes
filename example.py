@@ -1,4 +1,4 @@
-from utiilityes import Index
+from utiilityes import Index as ind
 
 if __name__ == "__main__":
     def saluto():
@@ -8,9 +8,9 @@ if __name__ == "__main__":
         print("Esco...")
         raise SystemExit
 
-    ui = Index()
+    ui = ind.Index()
 
-    ui.init.win("GUI Moderna SDL2")\
+    ui.init.win("Example")\
           .size(600, 400)
 
     ui.run_funct()\
