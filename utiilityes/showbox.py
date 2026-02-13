@@ -2,43 +2,47 @@ from .index import Index as ind
 from .run32 import log
 
 def error(message):
-    ind.init.win("Errore")\
-        .size(150, 300)
-    
-    ind.run_funct()\
-        .text(message)\
-        .render()
-    
+    ui = ind()
+    ui.init.win("Errore")\
+      .size(300, 150)
+
+    ui.run_funct()\
+      .text(message)\
+      .render()
+
 def info(message):
-    ind.init.win("Informazione")\
-        .size(150, 300)
-    
-    ind.run_funct()\
-        .text(message)\
-        .render()
-    
+    ui = ind()
+    ui.init.win("Informazione")\
+      .size(300, 150)
+
+    ui.run_funct()\
+      .text(message)\
+      .render()
+
 def warning(message):
-    ind.init.win("Attenzione!")\
-        .size(150, 300)
-    
-    ind.run_funct()\
-        .text(message)\
-        .render()
-        
+    ui = ind()
+    ui.init.win("Attenzione!")\
+      .size(300, 150)
+
+    ui.run_funct()\
+      .text(message)\
+      .render()
 
 def confirm(message):
-    ind.init.win("Conferma?")\
-        .size(150, 300)
-    
+    ui = ind()
+    ui.init.win("Conferma?")\
+      .size(300, 150)
+
     def si():
-        log("Accetato!")
+        log("Accettato!")
 
     def no():
         raise SystemExit
-    
-    ind.run_funct()\
-        .text(message)\
-        .button("Continua", action=si)\
-        .button("Annulla", action=no)\
-        .render()
-    
+
+    ui.run_funct()\
+      .text(message)\
+      .button("Continua", action=si)\
+      .button("Annulla", action=no)\
+      .render()
+
+
