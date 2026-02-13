@@ -39,7 +39,7 @@ if __name__ == "__main__":
         print("Esco...")
         raise SystemExit
 
-    ui = ind.Index()
+    ui = ind()
 
     ui.init.win("Example")\
           .size(600, 400)
@@ -70,7 +70,9 @@ Questo progetto è distribuito sotto licenza Apache 2.0. Vedi il file LICENSE pe
 - 0.2.7 -> Accettabile
 - 0.2.8b -> BETA con errori
 - 0.2.8b1 -> Seconda BETA
-- 0.2.8 -> Nuova
+- 0.2.8 -> Accetabile
+- 0.2.9 -> Nuova
+
 
 
 
