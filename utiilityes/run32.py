@@ -5,6 +5,9 @@ def log(message):
 
 def log_inui(message):
     ui = ind()
+    ui.init.win("Log")\
+      .size(300, 150)
+
     ui.run_funct()\
       .text(message)\
       .render()
@@ -15,6 +18,9 @@ def multiple_log(*objects):
 
 def multiple_log_inui(*objects):
     ui = ind()
+    ui.init.win("Logs")\
+      .size(300, 200)
+
     f = ui.run_funct()
     for obj in objects:
         f.text(str(obj))
@@ -29,7 +35,6 @@ def example():
         raise SystemExit
 
     ui = ind()
-
     ui.init.win("Example")\
       .size(600, 400)
 
