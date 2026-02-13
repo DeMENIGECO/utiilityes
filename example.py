@@ -8,7 +8,7 @@ if __name__ == "__main__":
         print("Esco...")
         raise SystemExit
 
-    ui = ind.Index()
+    ui = ind()
 
     ui.init.win("Example")\
           .size(600, 400)
