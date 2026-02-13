@@ -70,6 +70,8 @@ Questo progetto è distribuito sotto licenza Apache 2.0. Vedi il file LICENSE pe
 - 0.2.7 -> Accettabile
 - 0.2.8b -> BETA con errori
 - 0.2.8b1 -> Seconda BETA
+- 0.2.8 -> Nuova
+
 
 
 
