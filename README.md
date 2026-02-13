@@ -29,25 +29,26 @@ Puoi trovare un esempio completo nel file `example.py` incluso nel pacchetto.
 Ecco un estratto:
 
 ```python
-from utiilityes import Index
+from utiilityes import Index as ind
 
-def saluto():
-    print("Hai cliccato SALUTA!")
+if __name__ == "__main__":
+    def saluto():
+        print("Hai cliccato SALUTA!")
 
-def esci():
-    print("Esco...")
-    raise SystemExit
+    def esci():
+        print("Esco...")
+        raise SystemExit
 
-ui = Index()
+    ui = ind.Index()
 
-ui.init.win("GUI Moderna SDL2")\
-      .size(600, 400)
+    ui.init.win("Example")\
+          .size(600, 400)
 
-ui.run_funct()\
-  .text("Benvenuto nella GUI SDL2!")\
-  .button("Saluta", action=saluto)\
-  .button("Esci", action=esci)\
-  .render()
+    ui.run_funct()\
+      .text("Benvenuto nella GUI SDL2!")\
+      .button("Saluta", action=saluto)\
+      .button("Esci", action=esci)\
+      .render()
 ```
 
 
@@ -67,3 +68,4 @@ Questo progetto è distribuito sotto licenza Apache 2.0. Vedi il file LICENSE pe
 - 0.2.5 -> Accettabile
 - 0.2.6 -> Accettabile
 - 0.2.7 -> Nuova
+
