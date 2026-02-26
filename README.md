@@ -75,7 +75,8 @@ Questo progetto è distribuito sotto licenza Apache 2.0. Vedi il file LICENSE pe
 | 0.2.8 | Accettabile | Versione stabile |
 | 0.2.9 | Accettabile | Correzione run32 e showbox |
 | 1.0.0 | Accettabile | Riscrittura completa gestione finestre |
-| 1.1.0 | Nuova  | Riscrittura di run32 e showbox |
+| 1.1.0 | Accetabile  | Riscrittura di run32 e showbox |
+| 1.2.0 | Nuova | Bugfix per dependiences |
 
 
 
