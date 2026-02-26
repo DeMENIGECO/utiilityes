@@ -1,1 +1,2 @@
 include example.py
+recursive-include utilities/dependencies *
