@@ -66,15 +66,17 @@ Questo progetto è distribuito sotto licenza Apache 2.0. Vedi il file LICENSE pe
 | 0.2.1 | Obsoleta | — |
 | 0.2.2 | Obsoleta | — |
 | 0.2.3 | Obsoleta | — |
-| 0.2.4 | Accettabile | Funziona ma datata |
-| 0.2.5 | Accettabile | — |
-| 0.2.6 | Accettabile | — |
-| 0.2.7 | Accettabile | — |
+| 0.2.4 | Obsoleta | Troppo datata |
+| 0.2.5 | Obsoleta | — |
+| 0.2.6 | Obsoleta | — |
+| 0.2.7 | Obsoleta | — |
 | 0.2.8b | Beta | Contiene errori noti |
 | 0.2.8b1 | Beta | Migliorata ma instabile |
 | 0.2.8 | Accettabile | Versione stabile |
 | 0.2.9 | Accettabile | Correzione run32 e showbox |
-| 1.0.0 | Nuova | Riscrittura completa gestione finestre|
+| 1.0.0 | Accettabile | Riscrittura completa gestione finestre |
+| 1.1.0 | Nuova  | Riscrittura di run32 e showbox |
+
 
 
 
