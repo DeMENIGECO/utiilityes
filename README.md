@@ -79,6 +79,20 @@ Questo progetto è distribuito sotto licenza Apache 2.0. Vedi il file LICENSE pe
 | 1.2.0 | Nuova | Bugfix per dependiences |
 
 
+## 🌍 Community
+Hai idee, suggerimenti o vuoi contribuire?
+
+Visita la nostra community:
+👉 [Utiilityes Wiki](https://utitieam-utiilityes.fandom.com/it/wiki/Utiilityes_Wiki)
+
+Troverai:
+- Snippet di codice
+- Guide
+- Suggerimenti
+- Spazio per contribuire
+
+
+
 
 
 
