@@ -1,6 +1,6 @@
 [project]
 name = "utiilityes"
-version = "1.2.0"
+version = "1.2.1"
 description = "Una libreria Python per creare GUI moderne basate su SDL2"
 readme = "README.md"
 requires-python = ">=3.9"
