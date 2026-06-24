@@ -101,6 +101,8 @@ Visita la nostra Documetazione Ufficiale:
 ## Altri Nostri pacchetti
 [DeWeb](https://pypi.org/project/DeWeb/1.0.0/)
 
+[zompi](https://pypi.org/project/zompi)
+
 
 
 
